@@ -5,4 +5,4 @@ Employee performance analysis project built using SQL and Power BI, focusing on 
 ## Dashboard Preview
 
 ### Employee Performance Dashboard
-![Employee Dashboard](employee_dashboard.png)
+![Employee Dashboard](Employee_performance_analysis.png)
